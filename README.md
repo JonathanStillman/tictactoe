@@ -24,5 +24,5 @@ MIT
 
 ---
 
-> LinkedIn: [Jonathan Stillman](https://www.linkedin.com/in/jonathanstillman1/) &nbsp;&middot;&nbsp;
+> LinkedIn: [Jonathan Stillman](https://www.linkedin.com/in/jonathanstillman1/) 
 > GitHub: [@jonathanstillman](https://github.com/JonathanStillman)
