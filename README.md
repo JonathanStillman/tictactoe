@@ -10,10 +10,10 @@ https://user-images.githubusercontent.com/68572893/200409880-fd8b8e83-0593-4c60-
 
 ```bash
 # Clone this repository
-$ https://github.com/JonathanStillman/atm-machine.git
+$ https://github.com/JonathanStillman/tictactoe.git
 
 # Go into the repository
-$ cd atm-machine
+$ cd tictactoe
 
 # Run the app
 $ Run file
